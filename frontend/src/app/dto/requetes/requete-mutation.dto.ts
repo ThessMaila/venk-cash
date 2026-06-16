@@ -3,6 +3,6 @@ export interface RequeteMutation {
     nouveauNom: string;
     nouveauPrenom: string;
     nouvelEmail?: string;
-    nouveauTelephone?: string;
+    nouveauTelephone: string;
     nouvelleAdresse?: string;
 }

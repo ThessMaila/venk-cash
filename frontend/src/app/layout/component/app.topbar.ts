@@ -19,7 +19,7 @@ import { AuthentificationService } from '../../services/authentification.service
                 <i class="pi pi-bars"></i>
             </button>
             <a class="layout-topbar-logo flex align-items-center gap-2" routerLink="/">
-                <img src="sonabel_logo.png" alt="SONABEL" class="h-2rem" />
+                <img src="assets/images/sonabel_logo.png" alt="SONABEL" class="h-2rem" />
                 <span class="text-xl font-bold">VENK-CASH | SONABEL</span>
             </a>
         </div>
